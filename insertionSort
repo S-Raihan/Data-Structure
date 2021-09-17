@@ -19,7 +19,7 @@ arr = [3,2,66,44,6,677,45,233]
 #demo array
 insertion(arr)
 for i in range(len(arr)):
-    print(arr[i])
+    print(arr[i], end=" ")
 
 
 
